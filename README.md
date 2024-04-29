@@ -68,4 +68,4 @@ This project implements a two-step payment process using a message queue service
 4. Once the payment transaction is completed successfully or unsuccessfully, notifications will be sent to the RabbitMQ message queue.
 
 ## Video Presentation
- 
+ https://drive.google.com/file/d/1VQxHbrJ1PfVewd2oNJvyEKt3kERl-VAz/view?usp=sharing
